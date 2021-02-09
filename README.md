@@ -1,3 +1,3 @@
 # natours
 
-<h1> Learnign advanced css and sass </h1>
+<h3> Learnign advanced css and sass </h3>
