@@ -75,7 +75,7 @@
       height: 1.3rem;
       width: 1.3rem;
       border-radius: 50%;
-      position: absolute;
+
       @include transformCenter;
       background-color: $color-primary;
       opacity: 0;
